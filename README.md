@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pedro Henrique Samegima Pinto</h1>
 <h3 align="center">Full Stack Developer Jr</h3>
 
-- 🔭 I’m currently working on [blog-senai](https://github.com/pedrosamegima/Projeto-blog-senai.git)
+- 🔭 I’m currently working on [AllMusic](https://github.com/pedrosamegima/front-end-allmusic.git)
 
 - 👯 I’m looking to collaborate on [GreenAgri](https://github.com/pedrosamegima/greenAgri-completo.git)
 
