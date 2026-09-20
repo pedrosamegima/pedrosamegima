@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **phsamegima@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/pedro-henrique-samegima-pinto/](https://www.linkedin.com/in/pedro-samegima/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/pedro-samegima/](https://www.linkedin.com/in/pedro-samegima/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
