@@ -20,13 +20,11 @@
 ---
 ### ◇ GitHub Stats ◇
 
+### ◇ GitHub Stats ◇
+
 <div align="center">
-  <a href="https://github.com/pedrosamegima">
-    <img src="https://github-readme-stats.vercel.app/api?username=pedrosamegima&show_icons=true&theme=radical&hide_border=false" alt="Pedro Samegima's GitHub Stats" height="175" />
-  </a>
-  <a href="https://github.com/pedrosamegima">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosamegima&layout=compact&theme=radical&hide_border=false" alt="Most Used Languages" height="175" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=pedrosamegima&show_icons=true&theme=algolia&hide_border=false" alt="Pedro Henrique's GitHub Stats" height="190" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosamegima&layout=compact&theme=algolia&hide_border=false" alt="Most Used Languages" height="190" />
 </div>
 
 
