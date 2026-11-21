@@ -24,17 +24,21 @@
 
 ---
 
-### 🚀 Featured Projects
+<h3 align="center">🚀 Featured Projects</h3>
+
+<div align="center">
 
 | Project | Focus | Repository |
-| :--- | :--- | :--- |
+| :--- | :--- | :---: |
 | **DIFLEN** | Currently in active development | [View Repo](https://github.com/pedrosamegima/Diflen.git) |
 | **GreenAgri** | Open to collaboration | [View Repo](https://github.com/pedrosamegima/greenAgri-completo.git) |
 | **PetGo** | Mobile development & looking for help | [View Repo](https://github.com/pedrosamegima/flutter-petGo.git) |
 
+</div>
+
 ---
 
-### 📊 GitHub Analytics
+<h3 align="center">📊 GitHub Analytics</h3>
 
 <table align="center" width="100%">
   <tr>
