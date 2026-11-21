@@ -60,7 +60,7 @@
 ### 🛠️ Tech Stack
 
 #### Frontend & Styling
-<p align="center">
+<p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="angular" width="40" height="40" />
   </a>
@@ -85,7 +85,7 @@
 </p>
 
 #### Backend & Databases
-<p align="Center">
+<p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
   </a>
@@ -101,7 +101,7 @@
 </p>
 
 #### Tools & Design
-<p align="Center">
+<p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" />
   </a>
