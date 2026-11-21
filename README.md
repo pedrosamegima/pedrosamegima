@@ -56,7 +56,7 @@
 ### 🛠️ Tech Stack
 
 #### Frontend & Styling
-<p align="left">
+<p align="center">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="angular" width="40" height="40" />
   </a>
