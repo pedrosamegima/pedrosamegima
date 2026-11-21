@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>Hi 👋, I'm Pedro Henrique Samegima Pinto</h1>
-  <h3>Full Stack Developer Jr</h3>
+  <p><strong>Full Stack Developer Jr</strong> · Java · Spring · Angular · JavaScript</p>
 
   <p>
     <a href="https://www.linkedin.com/in/pedro-samegima/" target="_blank">
@@ -19,13 +19,34 @@
 
 ---
 
+### 🚀 Featured Projects
+
+| Project | Description | Link |
+| :--- | :--- | :--- |
+| **DIFLEN** | Currently working on this project | [Repository](https://github.com/pedrosamegima/Diflen.git) |
+| **GreenAgri** | Looking to collaborate on this project | [Repository](https://github.com/pedrosamegima/greenAgri-completo.git) |
+| **PetGo** | Looking for help / developing with Flutter | [Repository](https://github.com/pedrosamegima/flutter-petGo.git) |
+
+---
+
 ### ◇ GitHub Stats ◇
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedrosamegima&show_icons=true&theme=algolia&hide_border=false" alt="Pedro Henrique's GitHub Stats" height="190" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosamegima&layout=compact&theme=algolia&hide_border=false" alt="Most Used Languages" height="190" />
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td width="52%" align="center">
+      <a href="https://github.com/pedrosamegima">
+        <img src="https://github-readme-stats.vercel.app/api?username=pedrosamegima&show_icons=true&theme=algolia&hide_border=false" alt="Pedro Henrique's GitHub Stats" width="100%" />
+      </a>
+    </td>
+    <td width="48%" align="center">
+      <a href="https://github.com/pedrosamegima">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosamegima&layout=compact&theme=algolia&hide_border=false" alt="Most Used Languages" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
+---
 
 ### 🛠️ Languages & Tools
 
@@ -73,7 +94,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="42" height="42" />
   </a>
 </p>
-
----
-
-
