@@ -18,17 +18,17 @@
 </div>
 
 ---
+### ◇ GitHub Stats ◇
 
-### 🚀 About & Projects
+<div align="center">
+  <a href="https://github.com/pedrosamegima">
+    <img src="https://github-readme-stats.vercel.app/api?username=pedrosamegima&show_icons=true&theme=radical&hide_border=false" alt="Pedro Samegima's GitHub Stats" height="175" />
+  </a>
+  <a href="https://github.com/pedrosamegima">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosamegima&layout=compact&theme=radical&hide_border=false" alt="Most Used Languages" height="175" />
+  </a>
+</div>
 
-* 🔭 **Currently working on:** [DIFLEN](https://github.com/pedrosamegima/Diflen.git)
-* 👯 **Looking to collaborate on:** [GreenAgri](https://github.com/pedrosamegima/greenAgri-completo.git)
-* 🤝 **Looking for help with:** [PetGo](https://github.com/pedrosamegima/flutter-petGo.git)
-* 👨‍💻 **All repositories:** [github.com/pedrosamegima](https://github.com/pedrosamegima)
-* 📄 **Experiences & career:** [linkedin.com/in/pedro-samegima](https://www.linkedin.com/in/pedro-samegima/)
-* 📫 **Contact:** `phsamegima@gmail.com`
-
----
 
 ### 🛠️ Languages & Tools
 
@@ -79,13 +79,4 @@
 
 ---
 
-### ◇ GitHub Stats ◇
 
-<div align="center">
-  <a href="https://github.com/pedrosamegima">
-    <img src="https://github-readme-stats.vercel.app/api?username=pedrosamegima&show_icons=true&theme=radical&hide_border=false" alt="Pedro Samegima's GitHub Stats" height="175" />
-  </a>
-  <a href="https://github.com/pedrosamegima">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosamegima&layout=compact&theme=radical&hide_border=false" alt="Most Used Languages" height="175" />
-  </a>
-</div>
