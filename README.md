@@ -85,7 +85,7 @@
 </p>
 
 #### Backend & Databases
-<p align="left">
+<p align="Center">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
   </a>
@@ -101,7 +101,7 @@
 </p>
 
 #### Tools & Design
-<p align="left">
+<p align="Center">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" />
   </a>
